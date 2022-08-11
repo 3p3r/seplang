@@ -1,0 +1,18 @@
+{
+  "name": "seplang",
+  "version": "0.0.1",
+  "description": "A Polyglot Programming Language That Reminds You of Good ol' Days of PHP.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3p3r/seplang.git"
+  },
+  "keywords": [],
+  "author": "Sepehr Laal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/3p3r/seplang/issues"
+  },
+  "homepage": "https://github.com/3p3r/seplang#readme"
+}
